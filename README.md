@@ -11,11 +11,11 @@ Pietzner, M., Wheeler, E., Carrasco-Zanini, J., Cortes, A., Koprulu, M., Worheid
 https://doi.org/10.1126/science.abj1541
 
 ZHANG, ET AL.
-Zhang, J., Dutta, D., Köttgen, A., Tin, A., Schlosser, P., Grams, M.E., Harvey, B., Yu, B., Boerwinkle, E., Coresh, J., et al. (2022). Plasma proteome analyses in individuals of European and African ancestry identify cis-pQTLs and models for proteome-wide association studies. bioRxiv.
+Zhang, J., Dutta, D., KÃ¶ttgen, A., Tin, A., Schlosser, P., Grams, M.E., Harvey, B., Yu, B., Boerwinkle, E., Coresh, J., et al. (2022). Plasma proteome analyses in individuals of European and African ancestry identify cis-pQTLs and models for proteome-wide association studies. bioRxiv.
 https://doi.org/10.1101/2021.03.15.435533
 
 eQTL data are available from publicly available at https://www.eqtlgen.org/ and https://gtexportal.org/home/index.html; however, due to their size, are not provided in this repo.
 
 # Citation
 
-DOI to follow.
+https://doi.org/10.1101/2022.03.15.484248
